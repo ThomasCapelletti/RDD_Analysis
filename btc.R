@@ -1,6 +1,6 @@
 rm(list=ls())
 getwd()
-setwd("C:/Users/claud/OneDrive/Documenti")
+setwd("")
 ##################
 #   libraries
 ##################
